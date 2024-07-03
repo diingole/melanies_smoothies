@@ -1,5 +1,5 @@
 #requirements.txt
 snowflake-connector-python
 snowflake-snowpark-python
-pip install --upgrade pip
+python.exe -m pip install --upgrade pip
 streamlit = 24.1.1
